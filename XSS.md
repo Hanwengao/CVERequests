@@ -1,8 +1,4 @@
-# Life Insurance Management System v1.0 has stored cross-site scripting
-
 BUG_Author: wengao
-
-Website source code address: https://www.sourcecodester.com/php/14665/life-insurance-management-system-php-full-source-code.html
 
 Vulnerability File: /lims/insertNominee.php
 
